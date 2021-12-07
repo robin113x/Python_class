@@ -1,0 +1,23 @@
+#!/bin/python3
+x = raw_input('Enter the value :')
+print(type(x))
+
+y = (int)(x)
+print(type(y))
+
+x = input('Enter any value :')
+print(type(x))
+
+#!/bin/python3
+
+from sys import argv
+args = argv[1:]
+sum = 0
+
+for x in args:
+    sum = sum + int(x)
+print(sum)
+
+
+
+
