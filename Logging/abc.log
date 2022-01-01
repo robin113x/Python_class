@@ -1,0 +1,13 @@
+28/12/2021 :: 03:39:03 PM : INFO : Robin : Starting
+28/12/2021 :: 03:39:06 PM : INFO : Robin : Closed
+28/12/2021 :: 03:39:11 PM : INFO : Robin : Starting
+28/12/2021 :: 03:39:14 PM : INFO : Robin : Closed
+28/12/2021 :: 03:39:30 PM : INFO : Robin : Starting
+28/12/2021 :: 03:39:33 PM : ERROR : Robin : division by zero
+Traceback (most recent call last):
+  File "/home/robin/Documents/code/Python/Logging/6.py", line 30, in <module>
+    print(a/b)
+ZeroDivisionError: division by zero
+28/12/2021 :: 03:39:33 PM : INFO : Robin : Closed
+28/12/2021 :: 03:41:39 PM : INFO : Robin : Starting
+28/12/2021 :: 03:41:43 PM : INFO : Robin : Closed
