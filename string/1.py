@@ -8,3 +8,10 @@ for x in s:
     i+=1
 
 
+claas Res:
+    def __init__(self,n):
+        self.no = n
+        print(no)
+        
+        
+res = Res(10)
